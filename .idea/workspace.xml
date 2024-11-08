@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ca45dfe-aef9-4e3c-a746-0d441737eb0e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ejercicio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/administrativos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/empleado_limpieza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/empresa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudiantes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/persona.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profesores.py" afterDir="false" />
-    </list>
+    <list default="true" id="8ca45dfe-aef9-4e3c-a746-0d441737eb0e" name="Changes" comment="Herencia" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Makunouchi10/Herencia.git",
+    "accountId": "aa03062f-b1e0-4ca2-969b-eb1fd3402f6b"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -74,12 +66,25 @@
       <option name="presentableId" value="Default" />
       <updated>1731007796733</updated>
       <workItem from="1731007829001" duration="4671000" />
-      <workItem from="1731084339394" duration="964000" />
+      <workItem from="1731084339394" duration="1550000" />
     </task>
+    <task id="LOCAL-00001" summary="Herencia">
+      <option name="closed" value="true" />
+      <created>1731085973189</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731085973190</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Herencia" />
+    <option name="LAST_COMMIT_MESSAGE" value="Herencia" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ejercicio$main.coverage" NAME="main Coverage Results" MODIFIED="1731084977578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
