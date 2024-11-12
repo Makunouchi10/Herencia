@@ -8,8 +8,8 @@ def main():
     # Crear objetos
     estudiante = Estudiantes()
     estudiante.get_nombre()
-    estudiante.set_nombre("")
-    estudiante.set_apellido("Ariel")
+    estudiante.set_nombre("Alberto")
+    estudiante.set_apellido("Cruz")
     estudiante.set_edad(20)
     estudiante.set_matricula("123027")
     estudiante.get_carrera()
